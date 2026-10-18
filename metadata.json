@@ -1,0 +1,6 @@
+{
+  "name": "workstation",
+  "description": "A professional multi-tool workstation featuring Image Cleaner, Monitoring Report Builder, and Daily Activity Reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
